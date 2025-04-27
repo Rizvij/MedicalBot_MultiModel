@@ -2,5 +2,11 @@ groq==0.20.0
 python-dotenv==1.0.1
 ffmpeg==1.4
 PyAudio==0.2.14
-speechrecognition==3.14.2
+SpeechRecognition==3.14.2
 pydub==0.25.1
+elevenlabs==1.54.0
+gradio==5.25.2
+numpy>=1.24.0
+Pillow>=10.0.0
+requests>=2.31.0
+python-multipart>=0.0.6
